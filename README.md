@@ -3,7 +3,7 @@
 Welcome to my portfolio project! This repository features my personal portfolio website.
 This portfolio reflects projects I've created as personal hobbies during my free time.
 
-<img width="804" alt="image" src="https://github.com/nathan5467/nathan-portfolio/assets/104683968/92cae13b-3e5f-4874-afdb-c432b1a410f0">
+<img width="804" alt="image" src="https://github.com/nathan5467/nathan-portfolio/">
 
 ## What I Did
 
